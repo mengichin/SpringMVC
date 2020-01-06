@@ -6,14 +6,58 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89430bdb-ccc9-42b0-aefe-a8b28cf78516" name="Default Changelist" comment="" />
+    <list default="true" id="89430bdb-ccc9-42b0-aefe-a8b28cf78516" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/bs/HttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/bs/HttpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/bs/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/bs/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ReceiveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ReceiveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/SendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/SendThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/chat/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/HttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/HttpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/HttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/HttpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/cs/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/demo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/demo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/demo/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/demo/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/nio/MethodInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/nio/MethodInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/nio/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/nio/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/socket/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/socket/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/socket/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SpringMVC_Web_exploded/WEB-INF/classes/com/bailiban/spring/socket/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/bs/HttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/bs/HttpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/bs/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/bs/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ReceiveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ReceiveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/SendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/SendThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/chat/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/HttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/HttpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/HttpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/HttpServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/cs/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/demo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/demo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/demo/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/demo/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/nio/MethodInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/nio/MethodInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/nio/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/nio/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/socket/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/socket/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bailiban/spring/socket/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bailiban/spring/socket/ServerTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,124 +79,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ServerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/ServerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
-              <caret line="196" column="24" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/Counter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/MethodInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ClientTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/UserController.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="19">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRequestMapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/SpringMVC.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -170,11 +116,17 @@
       <find>pp</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response3.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ServerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ClientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ReceiveThread.java" />
@@ -196,8 +148,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/ServerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/Counter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/SpringMvc/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/springMvc/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/springMvc/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -221,18 +178,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="716" />
     <option name="width" value="732" />
     <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,7 +240,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="cs" type="462c0819:PsiDirectoryNode" />
+              <item name="springMvc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +249,8 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="springMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC" type="b2602c69:ProjectViewProjectNode" />
@@ -300,50 +259,76 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="springMvc" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringMVC" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringMVC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringMVC" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Spring学习\SpringMVC\src\main\java\com\bailiban\spring\controller" />
-      <recent name="D:\Spring学习\SpringMVC\src\main\java\com\bailiban\spring\demo" />
-      <recent name="C:\Users\Administrator\Desktop\SpringMVC\web\WEB-INF" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bailiban.spring.nio" />
+      <recent name="com.bailiban.spring.demo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bailiban.spring.nio" />
       <recent name="com.bailiban.spring.bs" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.bailiban.spring.nio" />
-      <recent name="com.bailiban.spring.demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Spring学习\SpringMVC" />
+      <recent name="D:\Spring学习\SpringMVC\src\main\java\com\bailiban\spring\controller" />
+      <recent name="D:\Spring学习\SpringMVC\src\main\java\com\bailiban\spring\demo" />
+      <recent name="C:\Users\Administrator\Desktop\SpringMVC\web\WEB-INF" />
     </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/test" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -525,12 +510,13 @@
       <updated>1577756588837</updated>
       <workItem from="1577756591644" duration="4892000" />
       <workItem from="1577774688421" duration="48820000" />
-      <workItem from="1578041413807" duration="4618000" />
+      <workItem from="1578041413807" duration="8463000" />
+      <workItem from="1578275488212" duration="2406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58330000" />
+    <option name="totallyTimeSpent" value="64581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,10 +528,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -555,7 +540,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293011" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04032258" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.14266488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39919356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,12 +548,14 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.04032258" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3293011" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.04032258" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007163" side_tool="true" weight="0.27860028" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.09959623" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.38037634" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3293011" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="REST Client" order="16" weight="0.42395693" />
+      <window_info anchor="bottom" id="Problems" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -585,50 +572,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ServerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/SendThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="19" column="82" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ReceiveThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -671,41 +614,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/bs/ServerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/cs/HttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/HttpServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/bs/HttpServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/java/JDK/jre/lib/rt.jar!/sun/nio/ch/SelectionKeyImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -780,17 +689,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/ServerTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/SpringMvc/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="9" selection-start-line="15" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ServerTest.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/cs/HttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -799,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="399">
           <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -807,39 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRequestMapping.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/socket/ServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="354">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -848,8 +736,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/MethodInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/SendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="82" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -858,10 +766,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/nio/ServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
+        <state relative-caret-position="3363">
           <caret line="196" column="24" selection-start-line="196" selection-start-column="24" selection-end-line="196" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/MyRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/chat/ReceiveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/bs/HttpServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -878,13 +828,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/demo/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#527#528#0" expanded="true" />
             <element signature="e#569#570#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/springMvc/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/controller/Counter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/bs/ServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bailiban/spring/springMvc/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -899,7 +917,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
