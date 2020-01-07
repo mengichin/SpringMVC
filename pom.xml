@@ -18,6 +18,30 @@
         <artifactId>lombok</artifactId>
         <version>1.18.10</version>
     </dependency>
+
+
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-core</artifactId>
+        <version>2.10.1</version>
+    </dependency>
+    <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.10.1</version>
+    </dependency>
+
+    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>javax.servlet-api</artifactId>
+        <version>4.0.1</version>
+        <scope>provided</scope>
+        <!--            provided
+        该依赖在打包过程中，不需要打进去，这个由运行的环境来提供，比如tomcat或者基础类库等等，事实上，
+        该依赖可以参与编译、测试和运行等周期，与compile等同。区别在于打包阶段进行了exclude操作。-->
+    </dependency>
+
+
 </dependencies>
 
 </project>

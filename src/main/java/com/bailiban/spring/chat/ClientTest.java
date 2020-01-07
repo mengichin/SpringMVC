@@ -9,5 +9,6 @@ public class ClientTest {
         System.out.println("成功连接服务器");
         new ReceiveThread("Server",socket).start();
         new SendThread("Client",socket).start();
+
     }
 }
