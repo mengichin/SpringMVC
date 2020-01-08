@@ -12,7 +12,7 @@ public class TestController {
     @RequestMapping("/user1")
    public User getUser(@RequestBody User user){
         System.out.println(user);
-       return user;
+        return user;
     }
 
 }
